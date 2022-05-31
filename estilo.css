@@ -1,0 +1,23 @@
+body{
+background: pink;
+font-family: 'poppins', sans-serif;
+}
+#primer_cuadro{
+position: absolute;
+width: 24vw;
+height: 14vh;
+margin-top: 20vh;
+margin-left: 38vw;
+background: green;
+color: white;
+font-size: 30px;
+text-align: center;
+}
+#aca_va_imagen{
+position: absolute;
+width: 10vw;
+height: 14vh;
+margin-top: 30vh;
+margin-left: 15vw;
+}
+
